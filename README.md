@@ -4,7 +4,7 @@
 [![GitHub Followers](https://img.shields.io/github/followers/nothiel?label=Follow&style=social)](https://github.com/nothiel)
 [![Twitter Follow](https://img.shields.io/twitter/follow/nothielitself?label=Follow&style=social)](https://twitter.com/nothielitself)
 
-Welcome to my GitHub profile! I'm a passionate Software Engineer with a love for coding and technology. My journey in the world of programming started when i discovered that i could make bots by using algorithms.
+Welcome to my GitHub profile! I'm a passionate Software Engineer with a love for coding and technology. My journey in the world of programming started when i discovered that i could make bots for online games xD
 
 ## 🔧 Technologies & Tools
 
